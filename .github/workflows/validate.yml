@@ -1,0 +1,29 @@
+name: News prüfen
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: news.json prüfen
+        shell: python
+        run: |
+          import json, os
+          from datetime import datetime
+          data = json.load(open("news.json", encoding="utf-8"))
+          assert data.get("schema") == 1, "schema muss 1 sein"
+          ids = set()
+          for n in data["items"]:
+              assert n.get("id") and n["id"] not in ids, f"id fehlt oder doppelt: {n.get('id')}"
+              ids.add(n["id"])
+              assert n.get("title", "").strip(), f"{n['id']}: title fehlt"
+              d = datetime.fromisoformat(n["date"])
+              assert d.tzinfo is not None, f"{n['id']}: date braucht eine Zeitzone"
+              img = n.get("image")
+              if img and not img.startswith("https://"):
+                  assert ".." not in img and os.path.isfile(img), f"{n['id']}: Bild fehlt: {img}"
+          print(f"OK: {len(ids)} Meldung(en)")

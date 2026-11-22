@@ -1,0 +1,57 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "kasse0-v0.19.0",
+      "date": "2026-11-22T20:30:47+01:00",
+      "title": "KASSE 0 v0.19.0: Die Kasse wird enger",
+      "game": "kasse0",
+      "kind": "patchnotes",
+      "excerpt": "Neuer Kassenbereich mit Kassenfenster und sitzender Kassiererin – und mehr Druck beim Bezahlen.",
+      "body": "- Neuer Aufbau des Kassenbereichs mit Kassenfenster\n- Die Kassiererin sitzt jetzt an ihrem Platz\n- Mehr Druck während des Kassen-Minispiels",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/kasse0-hero.png",
+      "url": "https://github.com/Mett-Gaming/kasse0/releases/tag/v0.19.0"
+    },
+    {
+      "id": "kasse0-v0.18.0",
+      "date": "2026-11-22T19:23:38+01:00",
+      "title": "KASSE 0 v0.18.0: Neue Schrecken",
+      "game": "kasse0",
+      "kind": "patchnotes",
+      "excerpt": "Jeder Schreck hat jetzt eigenen Klang und eigene Bildwirkung, dazu acht neue – und keiner kommt zweimal hintereinander.",
+      "body": "- Jeder Jumpscare mit eigenem Klang und eigener Bildwirkung\n- Acht neue Schrecken\n- Dieselbe Art wiederholt sich nicht direkt\n- Das Personal bleibt menschlich",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/kasse0-hero.png",
+      "url": "https://github.com/Mett-Gaming/kasse0/releases/tag/v0.18.0"
+    },
+    {
+      "id": "kasse0-v0.17.0",
+      "date": "2026-11-22T17:25:08+01:00",
+      "title": "KASSE 0 v0.17.0: Die Kunden verändern sich",
+      "game": "kasse0",
+      "kind": "patchnotes",
+      "excerpt": "Je weiter der Einkauf geht, desto weniger sehen die Kunden wie Kunden aus.",
+      "body": "- Kunden verformen sich mit jeder Stufe\n- Schritte und Schlüsselbund sind jetzt räumlich zu hören\n- Neue NPC-Cheats mit Zustandsanzeige",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/kasse0-hero.png",
+      "url": "https://github.com/Mett-Gaming/kasse0/releases/tag/v0.17.0"
+    },
+    {
+      "id": "mett-launcher-da",
+      "date": "2026-11-22T21:00:00+01:00",
+      "title": "Der Mett Launcher ist da",
+      "kind": "news",
+      "excerpt": "Alle Spiele von Mett Gaming an einem Ort: installieren, automatisch aktualisieren, ältere Versionen wählen und losspielen.",
+      "url": "https://github.com/Mett-Gaming/mett-launcher"
+    },
+    {
+      "id": "kasse0-vorgestellt",
+      "date": "2026-11-22T12:00:00+01:00",
+      "title": "KASSE 0 – nur kurz einkaufen",
+      "game": "kasse0",
+      "kind": "news",
+      "excerpt": "Du willst nur kurz bei KAUF NULL einkaufen. Du gehst in die Getränkeabteilung, kommst wieder heraus – und auf einmal ist alles komisch.",
+      "body": "Liminaler Supermarkt-Horror auf VHS mit eigener Engine in Rust und Vulkan. Arbeite den Einkaufszettel ab, bleib unauffällig und komm an der Kasse vorbei.",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/kasse0-hero.png",
+      "url": "https://github.com/Mett-Gaming/kasse0"
+    }
+  ]
+}
