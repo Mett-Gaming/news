@@ -2,6 +2,17 @@
   "schema": 1,
   "items": [
     {
+      "id": "hackepeter-v0.1.0",
+      "date": "2026-11-23T03:20:00+01:00",
+      "title": "HACKEPETER v0.1.0: Die Mettbrötchen-Flucht",
+      "game": "hackepeter",
+      "kind": "patchnotes",
+      "excerpt": "Das neue Spiel von Mett Gaming: Einer klaut das letzte Mettbrötchen, bis zu sieben Leute vom Ordnungsamt jagen ihn.",
+      "body": "- Endless-Runner auf drei Spuren: springen, rutschen, ausweichen\n- Ein Dieb gegen bis zu sieben Cops, freie Plätze füllen Bots auf, die Rollen wechseln jede Runde\n- Rampen auf Zugdächer und Brücken zum Drauflaufen oder Druntendurch\n- Zwiebelringe und sechs Power-ups: Senf-Turbo, Zwiebelmagnet, Brötchen-Schild, Pfeffer-Rakete, Sprungfedern, Mett-Stern\n- Cops mit Absperrband, Dackel und Trillerpfeife\n- Mehrspieler für bis zu 8 Leute über „Mit Freunden spielen“",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/hackepeter-hero.png",
+      "url": "https://github.com/Mett-Gaming/hackepeter/releases/tag/v0.1.0"
+    },
+    {
       "id": "kasse0-v0.19.0",
       "date": "2026-11-22T20:30:47+01:00",
       "title": "KASSE 0 v0.19.0: Die Kasse wird enger",
