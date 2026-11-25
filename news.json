@@ -2,6 +2,17 @@
   "schema": 1,
   "items": [
     {
+      "id": "mettclient-v0.4.1",
+      "date": "2026-11-25T18:57:36+01:00",
+      "title": "Mett-Client v0.4.1: Fehlersuche leicht gemacht",
+      "game": "mettclient",
+      "kind": "patchnotes",
+      "excerpt": "Diagnose kopieren und klare Fehlergründe im Menü.",
+      "body": "- Neuer Knopf „Diagnose kopieren“ in den Optionen: Versionen und Zustände für die Fehlersuche, ohne Namen, Pfade und IPs. Nichts wird gesendet\n- Zoom, Fullbright und Java-Aussehen zeigen dauerhaft, woran es liegt, wenn sie nicht laufen",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/mettclient-hero.png",
+      "url": "https://github.com/Mett-Gaming/mett-client/releases/tag/v0.4.1"
+    },
+    {
       "id": "mettclient-v0.4.0",
       "date": "2026-11-25T18:16:29+01:00",
       "title": "Mett-Client v0.4.0: Rüstung im Blick",
