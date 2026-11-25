@@ -2,6 +2,17 @@
   "schema": 1,
   "items": [
     {
+      "id": "mettclient-v0.4.0",
+      "date": "2026-11-25T18:16:29+01:00",
+      "title": "Mett-Client v0.4.0: Rüstung im Blick",
+      "game": "mettclient",
+      "kind": "patchnotes",
+      "excerpt": "Armor HUD, Effekte, Gegenstandszähler, Fullbright und ein neues Crosshair.",
+      "body": "- Armor HUD: Nachbau von uku's Armor HUD mit Haltbarkeit, Warnzeichen und Originaltexturen aus deinem Spiel\n- Effekte mit Restzeit und Gegenstandszähler\n- Crosshair ist jetzt ein Modul: Formen, Umriss, Punkt, Drehung, Regenbogen und „Umkehren wie Vanilla“\n- Fullbright mit einstellbarer Helligkeit, anfangs aus. Serverregeln können das verbieten\n- Tasten heißen auf Englisch LMB und RMB\n- Die Plugins bleiben geladen, solange Minecraft über den Launcher läuft: Ein- und Ausschalten wirkt sofort",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/mettclient-hero.png",
+      "url": "https://github.com/Mett-Gaming/mett-client/releases/tag/v0.4.0"
+    },
+    {
       "id": "mettclient-v0.3.0",
       "date": "2026-11-25T17:01:08+01:00",
       "title": "Mett-Client v0.3.0: Dein Design",
