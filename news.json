@@ -2,6 +2,17 @@
   "schema": 1,
   "items": [
     {
+      "id": "mettclient-v0.2.0",
+      "date": "2026-11-25T16:26:33+01:00",
+      "title": "Mett-Client v0.2.0: Ping ohne Eintragen",
+      "game": "mettclient",
+      "kind": "patchnotes",
+      "excerpt": "Der Ping erkennt den Server selbst, die HUD-Felder sind größer.",
+      "body": "- Ping misst zu dem Server, mit dem du gerade verbunden bist; kein Servereintrag mehr nötig (geprüft auf Lifeboat)\n- HUD-Felder sind anfangs doppelt so hoch, die Schrift ist 25 % größer\n- Eigene Größen und Plätze bleiben erhalten",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/mettclient-hero.png",
+      "url": "https://github.com/Mett-Gaming/mett-client/releases/tag/v0.2.0"
+    },
+    {
       "id": "mettclient-v0.1.0",
       "date": "2026-11-25T08:30:49+01:00",
       "title": "Mett-Client v0.1.0: Minecraft Bedrock mit Mett",
