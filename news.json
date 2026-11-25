@@ -2,6 +2,17 @@
   "schema": 1,
   "items": [
     {
+      "id": "mettclient-v0.4.3",
+      "date": "2026-11-25T19:46:57+01:00",
+      "title": "Mett-Client v0.4.3: Chat-Verlauf und Zoom für alle",
+      "game": "mettclient",
+      "kind": "patchnotes",
+      "excerpt": "Verlauf bei offenem Chat, Zoom und Fullbright auch mit Standard-Einstellungen.",
+      "body": "- Zoom, Fullbright und Java-Aussehen finden ihre Einstellungen jetzt auch, wenn in Minecraft fast alles auf Standard steht. Dafür werden beim Start vier Größen von Touch-Knöpfen um 0,01 verstellt und nach dem Spiel zurückgestellt\n- Verlauf bei offenem Chat, mit Mausrad und Bild auf/ab, abschaltbar. Nachrichten werden nur gelesen, solange der Chat offen ist, und nie gespeichert\n- Ein mitten im Zoom gespeichertes Sichtfeld kommt zuverlässiger zurück",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/mettclient-hero.png",
+      "url": "https://github.com/Mett-Gaming/mett-client/releases/tag/v0.4.3"
+    },
+    {
       "id": "mettclient-v0.4.2",
       "date": "2026-11-25T19:03:09+01:00",
       "title": "Mett-Client v0.4.2: Ganze Songtitel",
