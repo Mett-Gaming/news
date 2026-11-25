@@ -2,6 +2,17 @@
   "schema": 1,
   "items": [
     {
+      "id": "mettclient-v0.4.2",
+      "date": "2026-11-25T19:03:09+01:00",
+      "title": "Mett-Client v0.4.2: Ganze Songtitel",
+      "game": "mettclient",
+      "kind": "patchnotes",
+      "excerpt": "Musik zeigt den ganzen Titel, HUD-Text bleibt im Feld.",
+      "body": "- Musik zeigt den ganzen Titel, wenn er ins Feld passt, in hohen Feldern auch über mehrere Zeilen\n- Text in HUD-Feldern läuft nicht mehr über den Rand; nur bei zu wenig Platz endet er mit „…“",
+      "image": "https://raw.githubusercontent.com/Mett-Gaming/launcher-catalog/main/covers/mettclient-hero.png",
+      "url": "https://github.com/Mett-Gaming/mett-client/releases/tag/v0.4.2"
+    },
+    {
       "id": "mettclient-v0.4.1",
       "date": "2026-11-25T18:57:36+01:00",
       "title": "Mett-Client v0.4.1: Fehlersuche leicht gemacht",
